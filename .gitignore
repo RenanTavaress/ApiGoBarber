@@ -3,5 +3,7 @@ node_modules
 .env
 
 .eslintrc.js
-tmp/uploads/*
-!tmp/uploads/.gitkeep
+tmp/*
+!tmp/.gitkeep
+
+package-lock.json
